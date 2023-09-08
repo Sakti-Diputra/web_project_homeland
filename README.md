@@ -45,4 +45,4 @@ Dalam proyek ini digunakan untuk:
 
 
 **Tautan Ke GitHub Pages Saya**
-https://sakti-diputra.github.io/web_project_3_id/
+https://sakti-diputra.github.io/web_project_homeland/
