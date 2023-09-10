@@ -6,7 +6,7 @@
     margin: 0 48px;
 }
 
-.group {
+.cover__overlay {
     height: 100%;
     background-color: rgba(42, 44, 47, 0.3);
     display: flex;
@@ -16,12 +16,12 @@
     color: #fff;
 }
 
-.group:hover {
+.cover__overlay:hover {
     background-color: rgba(42, 44, 47, 0.8);
     transition: 0.3s ease;
 }
 
-.group__title {
+.cover__title {
     color: #fffdfd;
     text-align: center;
     font-family: Inter;
@@ -32,7 +32,7 @@
     margin-bottom: 36px;
 }
 
-.group__subtitle {
+.cover__subtitle {
     width: 280px;
     text-align: center;
     font-family: Inter;
@@ -43,7 +43,7 @@
     margin-bottom: 32px;
 }
 
-.group__paragraph {
+.cover__paragraph {
     padding: 13px 20px;
     border: none;
     border-radius: 4px;
@@ -55,7 +55,7 @@
     cursor: pointer;
 }
 
-.group__paragraph:hover {
+.cover__paragraph:hover {
     background: #0063d2;
 }
 
@@ -71,13 +71,13 @@
         height: 254px;
     }
 
-    .group__title {
+    .cover__title {
         font-size: 32px;
         line-height: 109.375%;
         margin-bottom: 16px;
     }
 
-    .group__subtitle {
+    .cover__subtitle {
         font-size: 14px;
         line-height: 114.286%;
         margin-bottom: 16px;
